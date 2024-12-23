@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nandin14.github.io/Portfolio",
-  "name": "portfolio",
+  "homepage": "https://nandin14.github.io/Portfolio/",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
