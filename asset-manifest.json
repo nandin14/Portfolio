@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nandin14.github.io/portfolio/static/css/main.6a1bf776.css",
-    "main.js": "/nandin14.github.io/portfolio/static/js/main.681115ce.js",
-    "static/js/488.9561f9b8.chunk.js": "/nandin14.github.io/portfolio/static/js/488.9561f9b8.chunk.js",
-    "index.html": "/nandin14.github.io/portfolio/index.html",
-    "main.6a1bf776.css.map": "/nandin14.github.io/portfolio/static/css/main.6a1bf776.css.map",
-    "main.681115ce.js.map": "/nandin14.github.io/portfolio/static/js/main.681115ce.js.map",
-    "488.9561f9b8.chunk.js.map": "/nandin14.github.io/portfolio/static/js/488.9561f9b8.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.6a1bf776.css",
+    "main.js": "/portfolio/static/js/main.120b4c7c.js",
+    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "main.6a1bf776.css.map": "/portfolio/static/css/main.6a1bf776.css.map",
+    "main.120b4c7c.js.map": "/portfolio/static/js/main.120b4c7c.js.map",
+    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a1bf776.css",
-    "static/js/main.681115ce.js"
+    "static/js/main.120b4c7c.js"
   ]
 }
