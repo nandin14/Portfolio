@@ -3,9 +3,11 @@ import React from 'react';
 function Contact() {
   return (
     <div className="contact">
-      <h2>Contact Me</h2>
-      <p>Email: <a href="mailto:dalal71@uwindsor.ca">dalal71@uwindsor.ca</a></p>
-      <p>Phone: +1 (226) 961-9764</p>
+      <h2>Get In Touch</h2>
+      <p>
+        I'm currently open to new opportunities. Feel free to reach out via email or LinkedIn.
+      </p>
+      <a href="mailto:dalal71@uwindsor.ca" className="btn">Email Me</a>
     </div>
   );
 }
