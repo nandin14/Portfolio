@@ -1,6 +1,6 @@
 import React from 'react';
 
-const skills = ['JavaScript', 'React', 'Angular', 'Python', 'Data Analysis', 'AWS', 'REST APIs'];
+const skills = ['Java', 'React', 'Angular', 'Python', 'Node.js', 'Flutter', 'Dart', 'Django', 'SQL', 'C', 'C++', 'Express', 'Power Automate', 'Unit Testing', 'Data Analysis', 'AWS', 'REST APIs'];
 
 function Skills() {
   return (
