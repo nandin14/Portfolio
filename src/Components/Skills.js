@@ -1,16 +1,27 @@
 import React from 'react';
 
-const skills = ['Java', 'React', 'Angular', 'Python', 'Node.js', 'Flutter', 'Dart', 'Django', 'SQL', 'C', 'C++', 'Express', 'Power Automate', 'Unit Testing', 'Data Analysis', 'AWS', 'REST APIs'];
+const skills = {
+  'Tools': ['Office 365', 'Active Directory', 'Linux', 'Jira', 'ServiceNow', 'Excel', 'Word'],
+  'Cloud Services': ['Amazon Web Services (AWS)', 'Azure'],
+  'Networking': ['DNS', 'DHCP', 'Firewall', 'VPNs', 'TCP/IP'],
+  'Virtualization': ['VMware', 'VirtualBox'],
+  'Soft Skills': ['Customer Support', 'Written and Verbal Communication']
+};
 
 function Skills() {
   return (
     <div className="skills">
-      <h2>Skills</h2>
-      <ul>
-        {skills.map((skill, index) => (
-          <li key={index}>{skill}</li>
-        ))}
-      </ul>
+      <h2 className="text-xl font-bold mb-4">Skills</h2>
+      {Object.entries(skills).map(([category, items], index) => (
+        <div key={index} className="mb-4">
+          <h3 className="font-semibold text-lg">{category}</h3>
+          <ul className="list-disc list-inside ml-4">
+            {items.map((item, i) => (
+              <li key={i}>{item}</li>
+            ))}
+          </ul>
+        </div>
+      ))}
     </div>
   );
 }
