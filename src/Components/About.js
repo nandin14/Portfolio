@@ -6,7 +6,7 @@ function About() {
       <h1>Hi, I'm Nandini Dalal</h1>
       <h2>IT Support Engineer</h2>
       <p> 
-      Enthusiastic and dependable Help Desk Specialist with a strong background in IT and customer service.
+      Enthusiastic Help Desk Specialist with a strong background in IT and customer service.
 Adept at managing reservations, responding to customer inquiries, and ensuring a welcoming and organized
 front desk environment. Skilled in using computerized systems for data entry and communication. Proven
 ability to remain calm and professional while handling client concerns and multitasking in fast-paced
