@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
   return (
     <div className="about">
-      <h1>Hi, I'm Nandini Dalal</h1>
+      <h1>Hello, I'm Nandini Dalal</h1>
       <h2>IT Support Engineer</h2>
       <p> 
       Enthusiastic Help Desk Specialist with a strong background in IT and customer service.
