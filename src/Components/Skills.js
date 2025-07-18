@@ -1,11 +1,14 @@
 import React from 'react';
 
 const skills = {
-  'Tools': ['Office 365', 'Active Directory', 'Linux', 'Jira', 'ServiceNow', 'Excel', 'Word'],
+  'Tools': ['Office 365', 'Active Directory','Jira', 'ServiceNow', 'Power BI', 'Excel', 'Word'],
   'Cloud Services': ['Amazon Web Services (AWS)', 'Azure'],
   'Networking': ['DNS', 'DHCP', 'Firewall', 'VPNs', 'TCP/IP'],
   'Virtualization': ['VMware', 'VirtualBox'],
-  'Soft Skills': ['Customer Support', 'Written and Verbal Communication']
+  'RPA & Automation': ['Power Automate', 'Power Apps', 'UiPath', 'REST APIs', 'PowerShell', 'JavaScript', 'Python'],
+  'Soft Skills': ['Customer Support', 'Written and Verbal Communication'],
+  'Operating System': ['Windows Server (2016–2022)', 'Linux'],
+  'Databaase': ['PostgreSql', 'Oracle']
 };
 
 function Skills() {
